@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto é uma aplicação Java que demonstra o uso avançado de **JPA (Java Persistence API)** e **Hibernate** para gerenciamento de persistência de dados em um sistema de loja. O projeto foi desenvolvido com base no curso **"Java e JPA: Consultas Avançadas, Performance e Modelos Complexos"** da **DevMedia**, explorando técnicas sofisticadas de mapeamento objeto-relacional e otimização de consultas.
+Este projeto é uma aplicação Java que demonstra o uso avançado de **JPA (Java Persistence API)** e **Hibernate** para gerenciamento de persistência de dados em um sistema de loja. O projeto foi desenvolvido com base no curso **"Java e JPA: Consultas Avançadas, Performance e Modelos Complexos"** da **Alura**, explorando técnicas sofisticadas de mapeamento objeto-relacional e otimização de consultas.
 
 ## 🎯 Objetivo
 
@@ -364,7 +364,7 @@ SELECT p FROM Pedido p JOIN FETCH p.cliente WHERE p.id = :id
 ## 📚 Referências
 
 Este projeto foi desenvolvido com base no curso:
-**"Java e JPA: Consultas Avançadas, Performance e Modelos Complexos"** - DevMedia
+**"Java e JPA: Consultas Avançadas, Performance e Modelos Complexos"** da Alura
 
 ### Tópicos Abordados no Curso:
 - ✅ Modelagem de relacionamentos bidirecionais
@@ -381,7 +381,7 @@ Este é um projeto educacional desenvolvido para fins de aprendizado.
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido durante o curso de Java e JPA da DevMedia.
+Projeto desenvolvido durante o curso de Java e JPA da Alura.
 
 ---
 
